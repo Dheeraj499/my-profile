@@ -7,5 +7,5 @@ h1 {
 	text-align : center ;
  	color : #ff12ff ;
 	font-family : courier new ;
-	
+	border: 2px dashed #12ff44;
 }
