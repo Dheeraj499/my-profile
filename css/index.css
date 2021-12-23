@@ -1,16 +1,11 @@
 img{
 	width:500px;
 	height:500px;
+	box-shadow : 5px 5px red, 10px 10px green, 15px 15px blue ;
 }
 h1 {
 	text-align : center ;
- 	text-color : #ff12ff ;
+ 	color : #ff12ff ;
 	font-family : courier new ;
 	
-}
-div {
-	box-shadow : 5px 5px red, 10px 10px green, 15px 15px blue ;
-}
-.cl {
-	box-shadow : 5px 5px red inset, 10px 10px green inset , 15px 15px blue inset;
 }
